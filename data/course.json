@@ -1,0 +1,217 @@
+{
+  "version": "2026.08.03-mvp",
+  "name": "AI FieldGuide Academy",
+  "tagline": "Learn AI. Apply it. Make it work.",
+  "promise": "A guided, practical path from AI-curious to AI-capable at work and in the real world.",
+  "disclaimer": "Training improves skills but does not guarantee employment, income, business results, or error-free AI output.",
+  "modules": [
+    {
+      "id": "foundations",
+      "number": 1,
+      "title": "AI Foundations Without the Hype",
+      "duration": "55 min",
+      "outcome": "Explain what modern AI can and cannot do, then choose a safe first use case.",
+      "project": "Build your personal AI opportunity-and-risk map.",
+      "lessons": [
+        "AI, language models, and generative AI in plain English",
+        "Prediction versus understanding: why confident errors happen",
+        "The human review loop for important work",
+        "Privacy, permissions, copyright, bias, and workplace policy"
+      ]
+    },
+    {
+      "id": "chatgpt",
+      "number": 2,
+      "title": "ChatGPT for Everyday Work",
+      "duration": "75 min",
+      "outcome": "Turn vague tasks into useful drafts, analyses, plans, and reusable workflows.",
+      "project": "Create a five-task ChatGPT workbench for your role.",
+      "lessons": [
+        "Choosing the right task and supplying trustworthy context",
+        "Drafting, summarizing, analyzing, and brainstorming",
+        "Working with documents and structured information",
+        "Verification, privacy, and when not to use AI"
+      ]
+    },
+    {
+      "id": "claude",
+      "number": 3,
+      "title": "Claude and Claude Cowork",
+      "duration": "70 min",
+      "outcome": "Delegate a bounded knowledge-work outcome while keeping consequential decisions human-controlled.",
+      "project": "Turn a folder of source material into a reviewed deliverable.",
+      "lessons": [
+        "Claude for writing, research, analysis, and long-form context",
+        "Claude Cowork: goal-based work across approved files and apps",
+        "Folder boundaries, connector permissions, and review checkpoints",
+        "Building a repeatable knowledge-work playbook"
+      ]
+    },
+    {
+      "id": "claude-code",
+      "number": 4,
+      "title": "Claude Code: Build by Describing Outcomes",
+      "duration": "90 min",
+      "outcome": "Use an agentic coding workflow to inspect, change, test, and review a small project.",
+      "project": "Build and test a useful one-page tool.",
+      "lessons": [
+        "Terminal basics and a safe project workspace",
+        "Context files, task briefs, and acceptance criteria",
+        "Plan, edit, test, inspect: the agentic coding loop",
+        "Permissions, secrets, version control, and rollback"
+      ]
+    },
+    {
+      "id": "agents",
+      "number": 5,
+      "title": "AI Agents in the Real World",
+      "duration": "85 min",
+      "outcome": "Design an agent workflow with clear tools, boundaries, evidence, and stop conditions.",
+      "project": "Map a safe research-to-draft agent for your work.",
+      "lessons": [
+        "What makes an agent different from a chat",
+        "Goals, context, tools, memory, actions, and evaluation",
+        "Human approval gates and blast-radius limits",
+        "Monitoring cost, quality, failures, and drift"
+      ]
+    },
+    {
+      "id": "prompt-pro",
+      "number": 6,
+      "title": "PROMPT LIKE A P.R.O.",
+      "duration": "65 min",
+      "outcome": "Write prompts that produce clearer, more verifiable work across leading AI tools.",
+      "project": "Create three P.R.O. prompts for a real weekly task.",
+      "lessons": [
+        "P — Purpose: outcome, audience, and definition of done",
+        "R — Relevant context: sources, constraints, examples, and assumptions",
+        "O — Output contract: format, tone, length, checks, and next step",
+        "Prompt debugging: isolate one weak variable at a time"
+      ]
+    },
+    {
+      "id": "top-prompts",
+      "number": 7,
+      "title": "The 20 Must-Know Prompts",
+      "duration": "80 min",
+      "outcome": "Adapt twenty reusable prompt patterns instead of starting from a blank box.",
+      "project": "Save a role-specific prompt library with examples and quality checks.",
+      "lessons": [
+        "Communication and meeting prompts",
+        "Research, decisions, and analysis prompts",
+        "Planning, systems, and agent prompts",
+        "Career, customer, and offer-building prompts"
+      ]
+    },
+    {
+      "id": "toolkit",
+      "number": 8,
+      "title": "The Useful AI Tools Map",
+      "duration": "60 min",
+      "outcome": "Select tools by job, evidence, risk, and total cost—not hype.",
+      "project": "Build a three-tool stack and a quarterly review checklist.",
+      "lessons": [
+        "General assistants, research tools, and document tools",
+        "Coding agents, automation, image, audio, and video tools",
+        "Connectors, data access, and vendor lock-in",
+        "The tool scorecard: fit, quality, privacy, price, and exit plan"
+      ]
+    },
+    {
+      "id": "income",
+      "number": 9,
+      "title": "Build Income With AI—Responsibly",
+      "duration": "95 min",
+      "outcome": "Package one real customer problem into a small, testable AI-assisted offer.",
+      "project": "Create and validate a one-page service or digital-product offer.",
+      "lessons": [
+        "Skills first: solve a painful problem before choosing tools",
+        "Service, productized service, templates, training, and software",
+        "Customer interviews, honest claims, pricing, and a paid pilot",
+        "Simple funnel metrics: visitors, leads, buyers, retention, and MRR"
+      ]
+    },
+    {
+      "id": "capstone",
+      "number": 10,
+      "title": "30-Day AI WorkReady Capstone",
+      "duration": "4 weeks",
+      "outcome": "Deliver a verified portfolio artifact and a repeatable AI workflow.",
+      "project": "Complete a before-and-after workflow case study with evidence.",
+      "lessons": [
+        "Week 1: baseline the task, time, quality, and risk",
+        "Week 2: prototype prompts and compare outputs",
+        "Week 3: add automation, approvals, and evaluation",
+        "Week 4: document results, limitations, and next iteration"
+      ]
+    }
+  ],
+  "reasons": [
+    { "title": "AI literacy is becoming basic work literacy", "copy": "Learn the vocabulary, limits, and decision habits needed to participate confidently in AI-enabled workplaces." },
+    { "title": "Stop losing hours to repeatable work", "copy": "Find tasks AI can accelerate while keeping judgment and accountability with you." },
+    { "title": "Better prompts create better starting points", "copy": "Use the P.R.O. framework to replace vague requests with clear outcomes, context, and output standards." },
+    { "title": "Choose tools without chasing every trend", "copy": "Evaluate assistants, agents, and creative tools by fit, privacy, evidence, cost, and exit options." },
+    { "title": "Turn scattered experiments into workflows", "copy": "Build reusable processes with inputs, checkpoints, quality tests, and definitions of done." },
+    { "title": "Agents require boundaries, not blind trust", "copy": "Learn permissions, approval gates, monitoring, and stop conditions before an agent acts." },
+    { "title": "Protect private and high-stakes information", "copy": "Recognize sensitive data, follow workplace policy, and avoid placing confidential material in the wrong tool." },
+    { "title": "Show employers what you can actually do", "copy": "Finish with a portfolio-ready case study that documents the task, workflow, evidence, and limitations." },
+    { "title": "Test income ideas without fake promises", "copy": "Package a useful skill into a paid pilot and measure demand before spending heavily." },
+    { "title": "Willie keeps help close", "copy": "Your AI Wisdom Guide is available across the academy to explain lessons, adapt examples, and help you find the next step." }
+  ],
+  "pricing": [
+    {
+      "id": "essentials",
+      "name": "Essentials",
+      "monthly": 29,
+      "annual": 290,
+      "audience": "Curious professionals building a practical foundation",
+      "features": ["Modules 1, 2, 6, and 7", "20-prompt library", "Monthly skill challenge", "Willie lesson support"]
+    },
+    {
+      "id": "pro",
+      "name": "Professional",
+      "monthly": 59,
+      "annual": 590,
+      "audience": "People applying AI across real workplace projects",
+      "features": ["All 10 modules", "Claude Code and Cowork labs", "Agent workflow templates", "Capstone and completion certificate", "Willie full-course support"]
+    },
+    {
+      "id": "builder",
+      "name": "Builder",
+      "monthly": 129,
+      "annual": 1290,
+      "audience": "Freelancers and founders validating an AI-assisted offer",
+      "features": ["Everything in Professional", "Income validation track", "Offer and funnel templates", "Monthly implementation clinic", "Portfolio review rubric"]
+    },
+    {
+      "id": "teams",
+      "name": "Teams",
+      "monthly": 399,
+      "annual": 3990,
+      "audience": "Small teams of up to 10 learners",
+      "features": ["10 learner seats", "Manager rollout guide", "Team prompt standards", "Shared capstone rubric", "Quarterly usage review template"]
+    }
+  ],
+  "prompts": [
+    { "number": 1, "name": "The Outcome Brief", "category": "Planning", "template": "Purpose: Help me produce [outcome] for [audience] by [date]. Relevant context: [facts, source material, constraints, examples]. Output contract: Return [format] with [required sections]. Identify assumptions and end with the three most important next actions." },
+    { "number": 2, "name": "The Executive Summary", "category": "Communication", "template": "Summarize the material below for [audience]. Preserve decisions, numbers, risks, owners, and deadlines. Separate confirmed facts from assumptions. Output: a five-bullet brief followed by a 100-word explanation. Material: [paste or attach]." },
+    { "number": 3, "name": "The Decision Memo", "category": "Decisions", "template": "I must decide [decision]. Context: [context]. Compare [options] against [criteria]. State what evidence is missing, list reversible versus irreversible consequences, and recommend a next step without pretending uncertainty is resolved." },
+    { "number": 4, "name": "The Meeting Prep", "category": "Meetings", "template": "Prepare me for a meeting with [people] about [topic]. Based only on [sources], give me the likely goals, five questions, three risks, my desired outcome, and a concise opening statement. Flag anything that must be verified." },
+    { "number": 5, "name": "Notes to Action", "category": "Meetings", "template": "Turn these notes into an action record. Output: decisions, open questions, action items with owner and due date, risks, and a follow-up email. Do not invent missing owners or deadlines; label them TBD. Notes: [notes]." },
+    { "number": 6, "name": "The Clear Email", "category": "Communication", "template": "Rewrite this email for [recipient] so the purpose and requested action are clear. Keep my facts and intent. Tone: [tone]. Maximum [length]. Add a specific subject line and flag any wording that could be misunderstood. Draft: [text]." },
+    { "number": 7, "name": "The Research Plan", "category": "Research", "template": "Create a research plan for [question]. Define scope, key terms, primary sources, recency requirements, disconfirming evidence, and a stop condition. Do not answer the question yet. Output a numbered plan and an evidence table template." },
+    { "number": 8, "name": "The Claim Checker", "category": "Research", "template": "Audit the claims below. For each, label it supported, uncertain, outdated, opinion, or contradicted. Explain what source would verify it. Quote no more than necessary and do not create citations. Claims: [claims]." },
+    { "number": 9, "name": "The Customer Lens", "category": "Marketing", "template": "Analyze this offer for [specific customer]. Separate known evidence from hypotheses. List the top job-to-be-done, pains, desired outcomes, objections, and language to test in interviews. Do not fabricate customer quotes. Offer: [offer]." },
+    { "number": 10, "name": "The Content Multiplier", "category": "Marketing", "template": "Repurpose the source below into one email, three short posts, a 60-second video outline, and five FAQ answers. Preserve the source's meaning, remove unsupported claims, and adapt each format to [audience]. Source: [content]." },
+    { "number": 11, "name": "The SOP Builder", "category": "Operations", "template": "Turn this process into a standard operating procedure for a new team member. Include purpose, inputs, permissions, steps, quality checks, exceptions, escalation points, and definition of done. Process notes: [notes]." },
+    { "number": 12, "name": "The Data Questioner", "category": "Analysis", "template": "Help me analyze [dataset or table]. First inspect definitions and data quality. Then answer [questions], show calculations, distinguish correlation from causation, and list limitations. Do not infer missing values without labeling the method." },
+    { "number": 13, "name": "Constrained Brainstorm", "category": "Ideas", "template": "Generate 12 ideas for [goal] within these constraints: [budget, time, audience, rules]. Group them into safe, bold, and experimental. Score each for impact, effort, and uncertainty. Recommend two inexpensive tests." },
+    { "number": 14, "name": "Stakeholder Rehearsal", "category": "Communication", "template": "Role-play a skeptical [stakeholder] reviewing [proposal]. Ask one question at a time about value, evidence, risk, cost, and implementation. After my answers, summarize the strongest objection and how I can improve the proposal honestly." },
+    { "number": 15, "name": "Explain the Code", "category": "Building", "template": "Explain this code to a [beginner/intermediate] learner. Describe its purpose, data flow, dependencies, risky operations, and one small example. Then list questions I should answer before changing it. Code: [code or file]." },
+    { "number": 16, "name": "Debug With Evidence", "category": "Building", "template": "Diagnose this failure. Evidence: [error, logs, steps, environment]. Rank likely causes, state what would confirm each, and give the smallest safe diagnostic step first. Do not propose destructive changes or claim a fix is verified until tests pass." },
+    { "number": 17, "name": "The Agent Task Contract", "category": "Agents", "template": "Design an agent task for [goal]. Specify allowed inputs, tools, actions, forbidden actions, budget, evidence requirements, approval gates, retry limit, stop conditions, and final output schema. Keep consequential decisions with a human." },
+    { "number": 18, "name": "The Project Plan", "category": "Planning", "template": "Plan [project] for [deadline]. Break it into milestones with owner, dependency, acceptance test, risk, and fallback. Identify the critical path and the first reversible action. Context: [context]." },
+    { "number": 19, "name": "Prompt Repair", "category": "Prompting", "template": "Improve the prompt below using P.R.O.: Purpose, Relevant context, Output contract. Preserve its goal, identify the three biggest ambiguities, then provide a revised prompt and a short test case. Original prompt: [prompt]." },
+    { "number": 20, "name": "The Paid Pilot", "category": "Income", "template": "Turn my skill [skill] and customer problem [problem] into a small paid pilot. Define the customer, bounded deliverable, exclusions, timeline, evidence of value, price hypothesis, outreach message, and success/failure criteria. Avoid income guarantees and unsupported claims." }
+  ]
+}

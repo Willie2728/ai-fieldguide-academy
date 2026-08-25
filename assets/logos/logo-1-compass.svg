@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-labelledby="t d">
+  <title id="t">AI FieldGuide Academy logo option one</title><desc id="d">A copper compass beside the academy name and tagline.</desc>
+  <rect width="720" height="220" rx="28" fill="#0b1220"/>
+  <g transform="translate(40 36)">
+    <circle cx="74" cy="74" r="60" fill="none" stroke="#f4b860" stroke-width="4"/>
+    <circle cx="74" cy="74" r="48" fill="#121e31" stroke="#2b405e"/>
+    <path d="M74 24 91 78 74 124 57 78Z" fill="#f4b860"/><path d="m74 124-17-46 17 12 17-12Z" fill="#4ee1c1"/>
+    <circle cx="74" cy="74" r="7" fill="#f7fbff"/>
+  </g>
+  <text x="176" y="91" fill="#f7fbff" font-family="Arial, sans-serif" font-weight="800" font-size="43">AI FieldGuide</text>
+  <text x="178" y="126" fill="#4ee1c1" font-family="Arial, sans-serif" font-weight="700" font-size="19" letter-spacing="4">ACADEMY</text>
+  <text x="178" y="164" fill="#b8c5d9" font-family="Arial, sans-serif" font-size="19">Learn AI. Apply it. Make it work.</text>
+</svg>

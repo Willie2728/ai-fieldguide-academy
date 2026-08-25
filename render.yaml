@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: ai-fieldguide-academy
+    runtime: node
+    plan: free
+    buildCommand: ""
+    startCommand: node server.js
+    healthCheckPath: /api/status
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: AI_PROVIDER
+        value: openai
+      - key: OPENAI_MODEL
+        value: gpt-5.6-luna
+      - key: OPENAI_API_KEY
+        sync: false

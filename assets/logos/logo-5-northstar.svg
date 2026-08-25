@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-labelledby="t d">
+  <title id="t">AI FieldGuide Academy logo option five</title><desc id="d">A luminous north star and guide path.</desc>
+  <defs><radialGradient id="r"><stop stop-color="#f9e07f"/><stop offset="1" stop-color="#f26ca7"/></radialGradient></defs>
+  <rect width="720" height="220" rx="28" fill="#17122e"/>
+  <g transform="translate(50 34)"><circle cx="72" cy="72" r="66" fill="#211943" stroke="#493b7c"/><path d="m72 13 12 46 47 13-47 12-12 47-12-47-47-12 47-13Z" fill="url(#r)"/><path d="M30 132c26-15 55-16 86-3" fill="none" stroke="#81e6d9" stroke-width="6" stroke-linecap="round"/></g>
+  <text x="204" y="91" fill="#fbf8ff" font-family="Arial, sans-serif" font-weight="800" font-size="41">AI FieldGuide</text>
+  <text x="206" y="126" fill="#81e6d9" font-family="Arial, sans-serif" font-weight="700" font-size="18" letter-spacing="4">ACADEMY</text>
+  <text x="206" y="163" fill="#c7bfdb" font-family="Arial, sans-serif" font-size="18">Find your AI advantage—with a guide beside you.</text>
+</svg>

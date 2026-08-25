@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-labelledby="t d">
+  <title id="t">AI FieldGuide Academy logo option three</title><desc id="d">A confident signal beacon made from layered arcs.</desc>
+  <rect width="720" height="220" rx="28" fill="#11100e"/>
+  <g transform="translate(48 40)" fill="none" stroke-linecap="round"><path d="M15 84c16-44 82-64 122-20" stroke="#ff7557" stroke-width="16"/><path d="M31 112c22-31 67-37 94-10" stroke="#ffb55b" stroke-width="16"/><circle cx="80" cy="122" r="11" fill="#fff1dc" stroke="none"/></g>
+  <text x="206" y="90" fill="#fff8ed" font-family="Arial, sans-serif" font-weight="800" font-size="42">AI FieldGuide</text>
+  <text x="208" y="125" fill="#ff7557" font-family="Arial, sans-serif" font-weight="700" font-size="18" letter-spacing="4">ACADEMY</text>
+  <text x="208" y="162" fill="#cfc5b7" font-family="Arial, sans-serif" font-size="18">Practical AI skills for work and what’s next.</text>
+</svg>

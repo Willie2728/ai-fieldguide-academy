@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-labelledby="t d">
+  <title id="t">AI FieldGuide Academy logo option four</title><desc id="d">A geometric bridge connecting human judgment to AI capability.</desc>
+  <rect width="720" height="220" rx="28" fill="#edf8f6"/>
+  <g transform="translate(40 42)"><rect x="4" y="78" width="132" height="18" rx="9" fill="#153e3a"/><path d="M18 78C28 13 112 13 122 78" fill="none" stroke="#153e3a" stroke-width="15"/><circle cx="36" cy="76" r="12" fill="#28c1a6"/><circle cx="104" cy="76" r="12" fill="#f0a950"/><path d="M70 18v76" stroke="#8ea9a4" stroke-width="4" stroke-dasharray="7 7"/></g>
+  <text x="204" y="91" fill="#153e3a" font-family="Arial, sans-serif" font-weight="800" font-size="41">AI FieldGuide</text>
+  <text x="206" y="126" fill="#c57a1b" font-family="Arial, sans-serif" font-weight="700" font-size="18" letter-spacing="4">ACADEMY</text>
+  <text x="206" y="163" fill="#4a6662" font-family="Arial, sans-serif" font-size="18">Better prompts. Smarter workflows. Real progress.</text>
+</svg>
